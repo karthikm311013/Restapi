@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2/1/2020",
+    "area": "Alameda",
+    "area_type": "County",
+    "population": 1685886,
+    "cases": 3,
+    "cumulative_cases": 3
+  },
+  {
+    "date": "2/2/2020",
+    "area": "Alameda",
+    "area_type": "County",
+    "population": 1685886,
+    "cases": 0,
+    "cumulative_cases": 3
+  },
+  {
+    "date": "2/3/2020",
+    "area": "Alameda",
+    "area_type": "County",
+    "population": 1685886,
+    "cases": 0,
+    "cumulative_cases": 3
+  }
+]
